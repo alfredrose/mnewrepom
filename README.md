@@ -7,4 +7,4 @@ Darwin Kernel Version 22.5.0
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
-det var godt
+bruker navn min github konto er: alfredrose
