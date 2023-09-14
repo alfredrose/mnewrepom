@@ -1,5 +1,6 @@
 # mnewrepom
 
+.
 class-work
 Macbook-air
 Darwin Kernel Version 22.5.0
